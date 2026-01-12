@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  background: radial-gradient(ellipse at center, #0a1628 0%, #000000 100%);
+  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
